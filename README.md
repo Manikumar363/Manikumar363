@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alle Manikumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-- 🔭 I’m currently working on **Souduko Project**
+- 🔭 I’m currently working on **backend Server Project**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **New Frameworks**
 
 - 👯 I’m looking to collaborate on **Web Developers**
 
